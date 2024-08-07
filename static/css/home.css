@@ -1,0 +1,783 @@
+/*
+	@name home_improved
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1881px; height: 2015px; margin-left: auto; margin-right: auto;  }
+
+
+#page_home_improved_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1881px;
+	height: 2015px;
+}
+
+#_bg__home_improved_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1881px;
+	height: 2015px;
+	background:rgba(255,255,255,1);
+}
+
+#group_2197 {
+	top: -7px;
+	left: -5px;
+	width: 1920px;
+	height: 2923px;
+}
+#group_2194 {
+	top: 122px;
+	left: 5px;
+	width: 1881px;
+	height: 980px;
+}
+
+#image_5 {
+	top: 5px;
+	left: 0px;
+	width: 1881px;
+	height: 975px;
+}
+
+
+#rectangle_859 {
+	top: 0px;
+	left: 0px;
+	width: 1881px;
+	height: 980px;
+}
+
+
+#be_part_of_the_change_you_want_to_see {
+	top: 242px;
+	left: 175px;
+	width: 1032px;
+	height: 176px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 90px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+	height: 230px;
+}
+
+
+#join_a_community_and_make_an_impact_in_your_area {
+	top: 460px;
+	left: 175px;
+	width: 982px;
+	height: 141px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#latest_volunteering_opportunities {
+	top: 1207px;
+	left: 90px;
+	width: 901px;
+	height: 168px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#our_vision {
+	top: 2785px;
+	left: 57px;
+	width: 527px;
+	height: 183px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 64px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#group_2176 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 120px;
+}
+#header {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 120px;
+}
+#nav {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 120px;
+}
+
+#background {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 120px;
+	-ms-box-shadow:0px 4px 30px 1px rgba(0,0,0,0.08);
+	-o-box-shadow:0px 4px 30px 1px rgba(0,0,0,0.08);
+	-webkit-box-shadow:0px 4px 30px 1px rgba(0,0,0,0.08);
+	-moz-box-shadow:0px 4px 30px 1px rgba(0,0,0,0.08);
+	box-shadow:0px 4px 30px 1px rgba(0,0,0,0.08);
+	background:rgba(255,255,255,1);
+}
+
+#chat {
+	top: 31px;
+	left: 1317px;
+	width: 54.57px;
+	height: 54.57px;
+}
+
+#background_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 54.57px;
+	height: 54.57px;
+	-ms-border-radius: 22px;
+	-o-border-radius: 22px;
+	-moz-border-radius: 22px;
+	-webkit-border-radius: 22px;
+	border-radius: 22px;
+	background:rgba(255,255,255,1);
+}
+
+#group_2146 {
+	top: 33px;
+	left: 37px;
+	width: 98px;
+	height: 68px;
+}
+
+#image_1 {
+	top: 0px;
+	left: 0px;
+	width: 98px;
+	height: 68px;
+	background:rgba(255,255,255,0);
+}
+
+
+#_home {
+	top: 32px;
+	left: 620px;
+	width: 165px;
+	height: 77px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+#chat_ek1 {
+	top: 32px;
+	left: 1143px;
+	width: 165px;
+	height: 77px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+#upcoming {
+	top: 32px;
+	left: 968px;
+	width: 165px;
+	height: 77px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+#volunteering {
+	top: 32px;
+	left: 792px;
+	width: 165px;
+	height: 77px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+#group_2196 {
+	top: 1305px;
+	left: 67px;
+	width: 1743px;
+	height: 666px;
+}
+#group_2186 {
+	top: 0px;
+	left: 0px;
+	width: 754px;
+	height: 520px;
+}
+
+#rectangle_8 {
+	top: 520px;
+	left: 33px;
+	width: 208px;
+	height: 0px;
+}
+
+#_3_hotels {
+	top: 0px;
+	left: 0px;
+	width: 754px;
+	height: 261px;
+}
+#sekarwangi {
+	top: 0px;
+	left: 0px;
+	width: 754px;
+	height: 261px;
+}
+
+#rectangle_6 {
+	top: 0px;
+	left: 0px;
+	width: 754px;
+	height: 261px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 1px solid #ffffff;
+	background:rgba(255,255,255,1);
+}
+
+#_3_hotels_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 754px;
+	height: 261px;
+}
+#sekarwangi_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 754px;
+	height: 261px;
+}
+
+#rectangle_6_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 754px;
+	height: 261px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 1px solid #ffffff;
+	background:rgba(255,255,255,1);
+}
+
+#group_2119 {
+	top: 29px;
+	left: 31px;
+	width: 691px;
+	height: 202px;
+}
+#group_2183 {
+	top: 0px;
+	left: 0px;
+	width: 691px;
+	height: 202px;
+}
+#group_2116 {
+	top: 0px;
+	left: 0px;
+	width: 691px;
+	height: 202px;
+}
+#group_2115 {
+	top: 0px;
+	left: 0px;
+	width: 691px;
+	height: 202px;
+}
+
+#image_5_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 210px;
+	height: 202px;
+}
+
+#sekarwangi_ek2 {
+	top: 180px;
+	left: 233px;
+	width: 227px;
+	height: 22px;
+}
+#sekarwangi_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 227px;
+	height: 22px;
+}
+#feature {
+	top: 0px;
+	left: 0px;
+	width: 227px;
+	height: 22px;
+}
+
+#__14_reviews_ {
+	top: 3px;
+	left: 137px;
+	width: 109px;
+	height: 29px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	color:#333333;
+}
+
+
+#_5_0 {
+	top: 0px;
+	left: 0px;
+	width: 57px;
+	height: 33px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#333333;
+}
+
+#group_1734 {
+	top: 1px;
+	left: 36px;
+	width: 96.05px;
+	height: 19.11px;
+}
+#_36 {
+	top: 0px;
+	left: 0px;
+	width: 19.21px;
+	height: 19.11px;
+}
+
+#vector {
+	top: 2.07px;
+	left: 2.08px;
+	width: 15.14px;
+	height: 14.38px;
+}
+
+#_38 {
+	top: 0px;
+	left: 38px;
+	width: 19.21px;
+	height: 19.11px;
+}
+
+#vector_ek1 {
+	top: 2.07px;
+	left: 2.08px;
+	width: 15.14px;
+	height: 14.38px;
+}
+
+#_37 {
+	top: 0px;
+	left: 19px;
+	width: 19.21px;
+	height: 19.11px;
+}
+
+#vector_ek2 {
+	top: 2.07px;
+	left: 2.08px;
+	width: 15.14px;
+	height: 14.38px;
+}
+
+#_39 {
+	top: 0px;
+	left: 58px;
+	width: 19.21px;
+	height: 19.11px;
+}
+
+#vector_ek3 {
+	top: 2.07px;
+	left: 2.08px;
+	width: 15.14px;
+	height: 14.38px;
+}
+
+#_40 {
+	top: 0px;
+	left: 77px;
+	width: 19.21px;
+	height: 19.11px;
+}
+
+#vector_ek4 {
+	top: 2.07px;
+	left: 2.08px;
+	width: 15.14px;
+	height: 14.38px;
+}
+
+#sekarwangi_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 227px;
+	height: 22px;
+}
+#feature_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 227px;
+	height: 22px;
+}
+
+#__14_reviews__ek1 {
+	top: 3px;
+	left: 137px;
+	width: 109px;
+	height: 29px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	color:#333333;
+}
+
+
+#_5_0_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 57px;
+	height: 33px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#333333;
+}
+
+#group_1735 {
+	top: 1px;
+	left: 36px;
+	width: 96.05px;
+	height: 19.11px;
+}
+#_36_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 19.21px;
+	height: 19.11px;
+}
+
+#vector_ek5 {
+	top: 2.07px;
+	left: 2.08px;
+	width: 15.14px;
+	height: 14.38px;
+}
+
+#_38_ek1 {
+	top: 0px;
+	left: 38px;
+	width: 19.21px;
+	height: 19.11px;
+}
+
+#vector_ek6 {
+	top: 2.07px;
+	left: 2.08px;
+	width: 15.14px;
+	height: 14.38px;
+}
+
+#_37_ek1 {
+	top: 0px;
+	left: 19px;
+	width: 19.21px;
+	height: 19.11px;
+}
+
+#vector_ek7 {
+	top: 2.07px;
+	left: 2.08px;
+	width: 15.14px;
+	height: 14.38px;
+}
+
+#_39_ek1 {
+	top: 0px;
+	left: 58px;
+	width: 19.21px;
+	height: 19.11px;
+}
+
+#vector_ek8 {
+	top: 2.07px;
+	left: 2.08px;
+	width: 15.14px;
+	height: 14.38px;
+}
+
+#_40_ek1 {
+	top: 0px;
+	left: 77px;
+	width: 19.21px;
+	height: 19.11px;
+}
+
+#vector_ek9 {
+	top: 2.07px;
+	left: 2.08px;
+	width: 15.14px;
+	height: 14.38px;
+}
+
+
+#ellipse_8 {
+	top: 0px;
+	left: 647px;
+	width: 44px;
+	height: 44px;
+	-ms-border-radius: 22px / 22px;
+	-o-border-radius: 22px / 22px;
+	-moz-border-radius: 22px / 22px;
+	-webkit-border-radius: 22px / 22px;
+	border-radius: 22px / 22px;
+	background:rgba(244,247,255,1);
+}
+
+
+#rectangle_8_ek1 {
+	top: 78px;
+	left: 2px;
+	width: 208px;
+	height: 124px;
+}
+
+
+#text {
+	top: 172px;
+	left: 12px;
+	width: 174px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	color:#C5C5C5;
+}
+
+#group_2098 {
+	top: 64px;
+	left: 233px;
+	width: 414px;
+	height: 58px;
+}
+
+#homeless {
+	top: 0px;
+	left: 0px;
+	width: 435px;
+	height: 69px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#6B6F7B;
+}
+
+#group {
+	top: 13px;
+	left: 657px;
+	width: 24px;
+	height: 21.33px;
+}
+
+#vector_ek10 {
+	top: 0px;
+	left: 0px;
+	width: 24px;
+	height: 21.33px;
+}
+
+
+#shulamit_center {
+	top: 0px;
+	left: 233px;
+	width: 430px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	color:#333333;
+}
+
+#group_2114 {
+	top: 34px;
+	left: 233px;
+	width: 284.33px;
+	height: 26.28px;
+}
+
+#shim_on_rokah_st_28__jerusalem {
+	top: 0px;
+	left: 19px;
+	width: 286.33px;
+	height: 37.28px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	color:#333333;
+}
+
+
+#vector_ek11 {
+	top: 1px;
+	left: 0px;
+	width: 12px;
+	height: 16px;
+}
+
+#group_ek1 {
+	top: 4px;
+	left: 3px;
+	width: 5.95px;
+	height: 5.95px;
+}
+
+#vector_ek12 {
+	top: 0px;
+	left: 0px;
+	width: 5.95px;
+	height: 5.95px;
+}
+
+#popular {
+	top: 128px;
+	left: 231px;
+	width: 167px;
+	height: 30px;
+}
+#popular_ek1 {
+	top: 128px;
+	left: 409px;
+	width: 58px;
+	height: 30px;
+}
+
+#cleaning {
+	top: 136px;
+	left: 415px;
+	width: 52px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 10px;
+	text-align: center;
+	color:#EB5757;
+}
+
+
+#serving_food {
+	top: 136px;
+	left: 243px;
+	width: 149px;
+	height: 21px;
+	overflow: hidden;
+	font-family: DM Sans;
+	font-size: 10px;
+	text-align: center;
+	color:#2B67F6;
+}
+
+#_36_ek2 {
+	top: 499px;
+	left: 300px;
+	width: 19.21px;
+	height: 19.11px;
+}
+
+#rectangle_865 {
+	top: 601px;
+	left: 1534px;
+	width: 208px;
+	height: 65px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	background:rgba(216,7,7,1);
+}
+
+
+#see_all____ {
+	top: 615px;
+	left: 1568px;
+	width: 211.5px;
+	height: 66.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 31px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#image_3 {
+	top: 33px;
+	left: 37px;
+	width: 91px;
+	height: 57px;
+}
+
+
+
+/* Add your custom CSS here */

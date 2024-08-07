@@ -1,0 +1,386 @@
+/*
+	@name sign_up_page
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1881px; height: 1216px; margin-left: auto; margin-right: auto;  }
+
+
+#page_sign_up_page_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1881px;
+	height: 1216px;
+}
+
+#_bg__sign_up_page_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1881px;
+	height: 1216px;
+	background:rgba(138.13,0,0,1);
+}
+
+#frame_3 {
+	top: 1022px;
+	left: 1443px;
+	width: 38px;
+	height: 153px;
+}
+#frame_5 {
+	top: -86px;
+	left: 8px;
+	width: 64px;
+	height: 239px;
+}
+#sign_up_page_ek3 {
+	top: 117px;
+	left: 185px;
+	width: 1512px;
+	height: 982px;
+}
+
+#ren_ran_bbiusdck8tu_unsplash_2 {
+	top:1px;
+	left: 563px;
+	width: 978px;
+	height: 982px;
+}
+
+
+#rectangle_1 {
+	top: 1px;
+	left: -35px;
+	width: 960px;
+	height: 982px;
+}
+
+#group_1 {
+	top: 296px;
+	left: 128px;
+	width: 518px;
+	height: 58px;
+}
+
+#input-name {
+	top: 0px;
+	left: 0px;
+	width: 600px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	border: none;
+
+}
+
+#input-name::placeholder {
+    color: black;
+}
+
+#input-email {
+	top: 0px;
+	left: 0px;
+	width: 600px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	border: none;
+}
+
+#input-email::placeholder {
+    color: black;
+}
+
+#input-password {
+	position: absolute;
+	top: 88px;
+	left: 2px;
+	width: 600px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	border:none;
+}
+
+#Password{
+	position: relative;
+}
+
+#input-password::placeholder {
+    color: black;
+}
+
+
+
+
+#vector_1 {
+	top: 58px;
+	left: 3px;
+	width: 515.5px;
+	height: 0px;
+}
+
+
+#vector_1_ek1 {
+	top: 669px;
+	left: 129px;
+	width: 518px;
+	height: px;
+}
+
+#group_2 {
+	top: 384px;
+	left: 128px;
+	width: 520px;
+	height: 146px;
+}
+
+
+
+
+
+#vector_1_ek2 {
+	top: 58px;
+	left: 3px;
+	width: 515.5px;
+	height: 0px;
+}
+
+
+#vector_2 {
+	top: 146px;
+	left: 5px;
+	width: 515.5px;
+	height: 0px;
+}
+
+
+#welcome_to_hestia_ {
+	top: 112px;
+	left: 185px;
+	width: 638px;
+	height: 116px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 52px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#already_have_an_account___log_in {
+	top: 192px;
+	left: 284px;
+	width: 308px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+#frame_1 {
+	top: 576px;
+	left: 232px;
+	width: 290px;
+	height: 50px;
+}
+
+.signup-button {
+	position: absolute; /* Add this to ensure the position */
+	top: 589px;
+	left: 240px;
+	width: 290px;
+	height: 50px;
+	border-radius: 10px;
+	background: rgba(128, 0, 0, 1);
+	border: none; /* Remove default button border */
+	color: #FFFFFF;
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center; /* Center text horizontally */
+	display: flex; /* Use flexbox for centering */
+	align-items: center; /* Center text vertically */
+	justify-content: center; /* Center text horizontally */
+	cursor: pointer; /* Change cursor on hover */
+}
+
+.signup-button:hover {
+	background: rgba(128, 0, 0, 0.8); /* Darken the background on hover */
+}
+
+
+#or_sign_up_with {
+	top: 656px;
+	left: 339px;
+	width: 166px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_3 {
+	top: 712px;
+	left: 347px;
+	width: 130px;
+	height: 60px;
+}
+#google_logo {
+	top: 1px;
+	left: 0px;
+	width: 50px;
+	height: 57px;
+}
+
+#rectangle_4 {
+	opacity:0.6;
+	top: 7px;
+	left: 0px;
+	width: 50px;
+	height: 50px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(98,255,180,1);
+}
+
+
+#rectangle_3 {
+	top: 0px;
+	left: 0px;
+	width: 50px;
+	height: 50px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(255,255,255,1);
+}
+
+#google_1 {
+	top: 7px;
+	left: 7px;
+	width: 36px;
+	height: 36px;
+}
+
+#vector {
+	top: 3px;
+	left: 3px;
+	width: 30px;
+	height: 30px;
+}
+
+
+#vector_ek1 {
+	top: 3px;
+	left: 4.73px;
+	width: 23.48px;
+	height: 11.63px;
+}
+
+
+#vector_ek2 {
+	top: 21.04px;
+	left: 4.65px;
+	width: 23.41px;
+	height: 11.96px;
+}
+
+
+#vector_ek3 {
+	top: 15px;
+	left: 18px;
+	width: 15px;
+	height: 14.12px;
+}
+
+#apple_logo {
+	top: 0px;
+	left: 80px;
+	width: 50px;
+	height: 60px;
+}
+
+#rectangle_7 {
+	opacity:0.6;
+	top: 10px;
+	left: 0px;
+	width: 50px;
+	height: 50px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(98,255,180,1);
+}
+
+
+#rectangle_8 {
+	top: 0px;
+	left: 0px;
+	width: 50px;
+	height: 50px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(255,255,255,1);
+}
+
+#apple_seeklogo_com_1 {
+	top: 5px;
+	left: 10px;
+	width: 30px;
+	height: 36.77px;
+}
+#group {
+	top: 0px;
+	left: 0px;
+	width: 30px;
+	height: 36.7px;
+}
+
+#vector_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 30px;
+	height: 36.7px;
+}
+
+#frame_4 {
+	top: 7px;
+	left: 807px;
+	width: 702px;
+	height: 975px;
+}
+
+
+/* Add your custom CSS here */
